@@ -1,0 +1,5 @@
+{
+  "name": "TrustBox - 区块链盲盒",
+  "description": "基于 Polygon 的去中心化社交盲盒平台，支持 ETH 质押、IPFS 存储及 DAO 履约验证。",
+  "requestFramePermissions": []
+}
